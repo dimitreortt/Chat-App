@@ -56,6 +56,9 @@ socket.on('locationMessage', (message) => {
         locationURL: message.locationURL,
         createdAt: moment(message.createdAt).format('hh:mm')
     })
+
+    
+
     $messages.insertAdjacentHTML('beforeend', html)
     autoscroll()
 })
