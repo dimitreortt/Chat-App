@@ -1,0 +1,1 @@
+Chat-App is a simple chat webserver created using Node.js and Socket.IO, it was one of the projects in Andrew Mead's Node.js course in Udemy. You can check it online here: https://dimitre-chat-app.herokuapp.com/
